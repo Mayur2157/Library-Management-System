@@ -175,6 +175,6 @@ For major changes, please open an issue first to discuss what you would like to 
 
 For any queries or support, please reach out to:
 
-- **Name**: Mayur2157
+- **Name**: Mayur Gadekar
 - **Email**: mayurgadekar2157@gmail.com
 - **GitHub**: https://github.com/Mayur2157/Library-Management-System
