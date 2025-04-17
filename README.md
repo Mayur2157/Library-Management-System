@@ -62,7 +62,7 @@ The **Library Management System** streamlines library workflows by providing mod
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Mayur2157/Library-Management-System>
    cd library_management
    ```
 
